@@ -1,0 +1,5 @@
+IP: 158.160.199.231;
+name_taski: пока не сделал;
+name_kittygram: пока без домена;
+login: tester;
+password: tester;
