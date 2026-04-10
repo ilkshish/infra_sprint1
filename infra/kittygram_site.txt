@@ -1,5 +1,5 @@
 IP: 158.160.199.231;
-name_taski: пока не сделал;
-name_kittygram: пока без домена;
-login: tester;
-password: tester;
+name_taski: https://taski4pr.serveirc.com;
+name_kittygram: https://myhost4pr.serveirc.com;
+login: andrew;
+password: 12345678;
